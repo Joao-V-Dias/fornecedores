@@ -23,8 +23,6 @@ Foi proposto pelos professores do curso para fins didáticos, com o objetivo de 
 
 ```bash
 git clone https://github.com/Joao-V-Dias/fornecedores.git
-
-cd seu-repositorio
 ```
 
 ### 2. Configure o banco de dados MySQL
