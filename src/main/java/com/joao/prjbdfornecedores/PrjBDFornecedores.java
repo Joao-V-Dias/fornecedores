@@ -8,7 +8,7 @@ public class PrjBDFornecedores {
 
     public static void main(String[] args) {
         Fornecedor f = new Fornecedor();
-        f.setNome("Teste");
+        f.setNome("Teste 1");
         f.setCnpj("1234567812345");
 
         Fornecedor_BD f_BD = new Fornecedor_BD();
