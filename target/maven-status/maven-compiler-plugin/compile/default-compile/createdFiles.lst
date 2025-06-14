@@ -1,0 +1,5 @@
+com\joao\prjbdfornecedores\classes_bd\Fornecedor_bd.class
+com\joao\prjbdfornecedores\PrjBDFornecedores.class
+com\joao\prjbdfornecedores\regrasDeNegocio\Fornecedor_RN.class
+com\joao\prjbdfornecedores\objetos\Fornecedor.class
+com\joao\prjbdfornecedores\util\Conexao.class
